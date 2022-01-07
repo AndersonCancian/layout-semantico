@@ -1,5 +1,5 @@
-# Projeto - Site HTML e CSS
-Projeto de Site básico utilizando HTML5 e CSS3.
+# Tag Layout Semântico.
+Aprendendo a usar Tags Semânticas em HTML e CSS
 
 
 
