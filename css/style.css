@@ -1,0 +1,58 @@
+body {
+    background-color: #999999;
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box 0;
+}
+
+.container {
+    margin: 0 auto;
+    background-color: #f9f9f9;
+    width: 80%;
+}
+
+header {
+    background-color: rgb(90, 176, 216);
+    height: 150px;
+}
+
+nav {
+    background-color: rgb(176, 110, 238);
+    height: 80px;
+}
+
+section {
+    background-color: rgb(121, 170, 72);
+    min-height: 600px;
+}
+
+article {
+    margin: 5px;
+    padding: 15px;
+    background-color: cornsilk;
+}
+
+footer {
+    background-color: #232323;
+    min-height: 350px;
+    color: #999999;
+}
+
+/* Classes */
+.noticia01 {
+    background-color: darkgreen;
+    float: left;
+    width: 25%;
+}
+
+.noticia02 {
+    background-color: yellow;
+    float: left;
+    width: 25%;    
+}
+
+.noticia03 {
+    background-color: rgb(179, 113, 113);
+    float: left;
+    width: 25%;    
+}
